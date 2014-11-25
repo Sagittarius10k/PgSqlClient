@@ -1,0 +1,23 @@
+﻿PgSqlClient v0.4 (19-06-2010)
+
+[*] Modified notification about script execution result.
+
+-------------------------------------------------------------------------------
+PgSqlClient v0.3 (02-06-2009)
+
+[+] Added Release Notes file.
+[+] Added support of Single-line commands mode
+[+] Added key "-m" for switching Single-line/Multiline command mode.
+	If "-m" key is pointed the script will be executed as one Multiline command, 
+	otherwise as multiple single-line commands.
+[*] Changed name of key "-u" to "-U" for compatibility with "psql" tool.
+
+-------------------------------------------------------------------------------
+PgSqlClient v0.2 (22-05-2009)
+
+[+] Added displaying of command text to error messages.
+
+-------------------------------------------------------------------------------
+PgSqlClient v0.1 (28-04-2009)
+
+[+] Initial version of tools.
